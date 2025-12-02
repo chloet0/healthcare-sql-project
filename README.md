@@ -12,7 +12,7 @@ Each table reflects realistic hospital operations, ideal for showcasing SQL data
 What I Learned
   Writing complex joins across 3+ tables
   Using aggregation, grouping, and date functions
-  Handling real-world schema relationships (e.g., appointment ↔ billing ↔ treatment)
+  Handling real-world schema relationships
   Designing insights relevant to business users (finance, admin, HR)
   
   Dataset from: 
